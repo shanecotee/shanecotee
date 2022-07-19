@@ -1,5 +1,3 @@
-@shanecotee
-
 - Senior Software Engineer at DAT
 - Musician
 - Photographer
